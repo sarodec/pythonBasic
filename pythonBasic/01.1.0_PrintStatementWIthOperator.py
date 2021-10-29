@@ -12,4 +12,6 @@ print('Rahul')
 print('301, ransto' , end=" ")
 print('hemlet street, 45841')
 
+print('09','12','2016', sep='-')
+
 # Due to end operator second and third statement printed on one line
